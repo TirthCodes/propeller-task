@@ -9,3 +9,6 @@ gh repo create propeller-task --public --source=.
 
 # 3
 git checkout -b update_logo
+
+# 6
+git add . && git commit -m "Update logo and link"
